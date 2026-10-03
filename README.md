@@ -212,8 +212,3 @@ Monthly Income.
 The project also provides a foundation for extending the analysis into a
 dedicated employee attrition prediction system.
 
-👤 Author
-
-Kartikey Tiwari
-BCA -- Data Science & AI
-Shri Ramswaroop Memorial University
